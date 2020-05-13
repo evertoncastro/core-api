@@ -107,7 +107,7 @@ dist
 # IDE/Text Editors
 .vscode/
 
-credentials/
-
 # Dependencies
 package-lock.json
+# Credentials
+credentials
